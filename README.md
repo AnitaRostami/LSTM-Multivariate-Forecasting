@@ -1,0 +1,3 @@
+# LSTM Multivariate Forecasting
+
+This notebook demonstrates the use of Long Short-Term Memory (LSTM) networks for multivariate forecasting, with a specific focus on air pollution prediction. The model is aimed at providing accurate air pollution forecasts by using a variety of features such as date, pollution levels, dew point, temperature, pressure, wind direction, wind speed, snowfall, and rainfall. Through comprehensive data preprocessing, model training, and evaluation, this notebook offers a detailed walkthrough of implementing LSTM for time series forecasting.
